@@ -351,4 +351,4 @@ The list is designed to help you not only understand technical terms, but also b
 
 
 
-- Contributions are welcome! Feel free to open a PR 🧑‍💻
+**-----> Contributions are welcome! Feel free to open a PR 🧑‍💻 <-----**
