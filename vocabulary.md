@@ -348,6 +348,82 @@ The list is designed to help you not only understand technical terms, but also b
 **Was sind die größten Herausforderungen, mit denen Auszubildende in diesem Bereich typischerweise konfrontiert werden, und wie unterstützt das Unternehmen sie dabei, diese zu bewältigen?** – What are the biggest challenges that trainees typically face in this area, and how does the company help them overcome them?  
 **begleichen** – To settle (a payment or debt)
 
+**Genehmigt** - approved or authorized  
+**Das Gerät** - the device  
+**Biegsam** - flexible  
+**Benutzerdefinierte Objekte** - custom objects  
+**Eigentum** - property or ownership  
+**Angestellt** - employed or hired  
+**Belegen** - to take or to enroll in  
+**Klientspezifische Daten** - client-specific data  
+**Kundenübergreifende Daten** - cross-client data  
+**Mandantenübergreifend** - across multiple clients  
+**Mandant** - client  
+**Währungsrechner** - currency converter  
+**Umgekehrt** - the other way around  
+**Bestandteile** - components or parts  
+**Ausgedacht** - thought up, invented, or imagined  
+**Ausgekaut** - overused or worn out  
+**Bescheuert** - ridiculous or idiotic  
+**Auswerten** - to evaluate, analyze, or interpret  
+**Aufgeregt** - excited  
+**Ungewohnt** - unfamiliar or unusual  
+**Abstürzt** - crashes or falls  
+**Symbolleiste** - toolbar  
+**Lädt** - to load  
+**Sobald** - as soon as  
+**Sich lohnt** - to be worth it  
+**Einarbeit** - onboarding, training, or familiarizing  
+**Verbreitet** - widespread or common  
+**Benannt** - named  
+**Übersichtlicher** - clearer or more organized  
+**Zügig** - quickly or rapidly  
+**Basierend auf den** - based on  
+**Verzweigungen** - if-else statements or conditional logic  
+**Teilen** - to divide or share  
+**Motiviert** - motivated  
+**Praktikum** - internship  
+**Abrufen** - to fetch  
+**Abfragen** - to query  
+**Abbilden** - to map  
+**Verketten** - to concatenate  
+**Teilen** - to split  
+**Verbinden** - to join  
+**Ersetzen** - to replace  
+**Einfügen** - to paste  
+**Umbenennen** - to rename  
+**Verschieben** - to move  
+**Hochladen** - to upload  
+**Sichern** - to backup  
+**Wiederherstellen** - to restore  
+**Verschlüsseln** - to encrypt  
+**Entschlüsseln** - to decrypt  
+**Zwischenspeichern** - to cache  
+**Vorladen** - to preload  
+**Schleife** - loop  
+**Iterieren** - to iterate  
+**Deklarieren** - to declare  
+**Initialisieren** - to initialize  
+**Instanziieren** - to instantiate  
+**Aufrufen** - to call  
+**Zurückgeben** - to return  
+**Überladen** - to overload  
+**Überschreiben** - to override  
+**Erben** - to inherit  
+**Abstrahieren** - to abstract  
+**Schnittstelle** - interface  
+**Polymorphismus** - polymorphism  
+**Kapselung** - encapsulation  
+**Abhängigkeit** - dependency  
+**Einspeisen** - to inject  
+**Binden** - to bind  
+**Versenden** - to dispatch  
+**Werfen** - to throw  
+**Fangen** - to catch  
+**Überwachen** - to monitor  
+**Hinkommen** - to end up  
+**Vorgekommen** - happened  
+
 
 
 
