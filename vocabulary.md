@@ -422,7 +422,86 @@ The list is designed to help you not only understand technical terms, but also b
 **Fangen** - to catch  
 **Überwachen** - to monitor  
 **Hinkommen** - to end up  
-**Vorgekommen** - happened  
+**Vorgekommen** - happened 
+
+**Entweder** - either  
+**Agreed** - agreed  
+**Einordnen** - to classify  
+**Durchzuarbeiten** - to work through  
+**Gleichwertig** - equivalent  
+**Einschränkung** - restriction  
+**Angelogen** - lied (to someone)  
+**Veranstalten** - to organize  
+**Gerannt** - ran  
+**Unterbrechen** - to interrupt  
+**Abschnitt** - section or paragraph  
+**Gleichzeitigkeit** - simultaneity  
+**Verabschiedeten** - adopted (e.g. a law, resolution)  
+**Ungerechtigkeit** - injustice  
+**Verleiht** - grants or gives  
+**Anspruchsvoll** - challenging  
+**Ich muss zugeben** - I must admit  
+**Entschieden** - decided  
+**Führend** - leading  
+**Bemerkenswert** - remarkable  
+**Leidenschaftlich** - passionately  
+**Problemlösung** - problem-solving  
+**Neugierig** - curious  
+**Vertiefen** - to deepen  
+**Erwarten** - to expect  
+**Weiterbildung** - further education  
+**Spezialisierung** - specialization  
+**Derzeit** - currently  
+**Ort** - place  
+**Strukturiert** - structured  
+**Erlernen** - to learn  
+**Betrieb** - company / enterprise  
+**Hochschulbildung** - higher education  
+**Abgeschlossen** - completed  
+**Erworben** - acquired  
+**Bereich** - area / field  
+**Mittleren Schulabschluss** - intermediate school certificate  
+**Schnupperpraktikum** - trial internship  
+**Absolviert** - completed  
+**Karriere** - career  
+**Vorteil** - advantage  
+**Spannend** - exciting  
+**Faszinierend** - fascinating  
+**Beschäftigen** - to occupy oneself  
+**Datenbanken** - databases  
+**Vorstellen** - to imagine / envision  
+**Nutzer** - user  
+**Vitaldaten** - vital data  
+**Blutdruck** - blood pressure  
+**Zugreifen** - to access  
+**Benutzeroberfläche** - user interface  
+**Anbinden** - to connect  
+**Angezeigt** - displayed  
+**Funktionen** - functions  
+**Genossen** - enjoyed  
+**Junior entwickler** - junior developer  
+**Sinn** - sense / meaning  
+**Gestaltung** - design  
+**Benutzerfreundlich** - user-friendly  
+**Komponenten** - components  
+**Trennung** - separation  
+**Logik** - logic  
+**Effizient** - efficient  
+**Herausfordernd** - challenging  
+**Abstürzte** - crashed  
+**Berufseinsteiger** - entry-level professional  
+**Ursache** - cause  
+**Lösung** - solution  
+**Rückmeldung** - feedback  
+**Angebot** - offer  
+**Entscheiden** - to decide  
+**Fachinformatiker** - IT specialist  
+**Systemintegration** - system integration  
+**Anwendungsentwicklung** - application development  
+**Technikbezogen** - tech-related  
+**Videos** - videos  
+**Freizeit** - free time  
+
 
 
 
