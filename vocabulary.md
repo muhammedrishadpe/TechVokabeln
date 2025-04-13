@@ -452,7 +452,6 @@ The list is designed to help you not only understand technical terms, but also b
 **Weiterbildung** - further education  
 **Spezialisierung** - specialization  
 **Derzeit** - currently  
-**Ort** - place  
 **Strukturiert** - structured  
 **Erlernen** - to learn  
 **Betrieb** - company / enterprise  
