@@ -497,9 +497,38 @@ The list is designed to help you not only understand technical terms, but also b
 **Fachinformatiker** - IT specialist  
 **Systemintegration** - system integration  
 **Anwendungsentwicklung** - application development  
-**Technikbezogen** - tech-related  
-**Videos** - videos  
+**Technikbezogen** - tech-related   
 **Freizeit** - free time  
+
+**Dieselbe** - the same (feminine thing/person)  
+**Trug** - wore  
+**Kleidung** - clothing  
+**Zeitung** - newspaper  
+**Gleiche** - same (type/kind)  
+**Firma** - company  
+**Entlassen** - fired, dismissed  
+**Vertreten** - to represent, to cover for someone  
+**Umsatz** - revenue  
+**Geraten ist** - has gotten into / has ended up in  
+**Schwierigkeiten** - difficulties / trouble  
+**Aufdrehen** - to turn on (e.g. water)  
+**Opfer** - victim / sacrifices  
+**Wichtig** - important  
+**Bestätigt** - confirmed  
+**Beigebracht** - taught (to oneself or someone)  
+**Mentor** - mentor  
+**Technisch** - technical  
+**Hin und wieder** - now and then / occasionally  
+**Populär** - popular  
+**Offizielle Dokumentation** - official documentation  
+**Bekommen** - to get, to receive  
+**Gefühlt** - felt  
+**Bereich** - field (context: field of work/study)  
+**Ausbildung** - vocational training  
+**Schließlich** - eventually / finally  
+**Hotelfachmann** - hotel specialist (job/training)  
+**Entschied** - decided  
+
 
 
 
