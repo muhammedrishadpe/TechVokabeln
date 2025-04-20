@@ -529,6 +529,60 @@ The list is designed to help you not only understand technical terms, but also b
 **Hotelfachmann** - hotel specialist (job/training)  
 **Entschied** - decided  
 
+**folglich** – therefore  
+**infolgedessen** – consequently  
+**demnach** – thus  
+**somit** – hence  
+**anderenfalls** – otherwise  
+**ansonsten** – otherwise  
+**sonst** – else / otherwise  
+**außer wenn** – unless / except when  
+**es sei denn** – unless  
+**scheitern** – to fail  
+**Rücksicht (nehmen auf)** – to show consideration for  
+**Beförderung** – promotion  
+**durchgefallen** – failed (exam)  
+**besiegen** – to defeat  
+**Dringlichkeit** – urgency  
+**Eile** – rush  
+**Zeitnot** – time crunch  
+**Schätzung zufolge / Laut Schätzung** – according to the estimate  
+**gelitten** – suffered  
+**überfordert** – overwhelmed  
+**überreden** – to convince  
+**sich übergeben** – to vomit  
+**überfallen** – to attack / rob  
+**überweisen** – to transfer  
+**überdenken** – to rethink  
+**überarbeiten** – to revise  
+**überfordern** – to overburden  
+**überlaufen** – to overflow / to defect  
+**übersetzen** – to translate / to cross over (ferry)  
+**überwinden** – to overcome  
+**Angaben** – details  
+**übergehen** – to skip / ignore  
+**durchlaufen** – to go through / complete  
+**umdenken** – to rethink  
+**unterschätzen** – to underestimate  
+**widerfahren** – to happen (unexpectedly)  
+**durchbrechen** – to break through / smash  
+**widersetzen (sich)** – to oppose  
+**Unterstellung** – accusation (negative connotation)  
+**durchmachen** – to go through (hardship, illness)  
+**durchhalten** – to persevere  
+**plötzlich** – suddenly  
+**entwerfen** – to design, draft  
+**Aufwand** – effort  
+**abgeben** – to hand in  
+**steigern** – to increase, improve  
+**nahelegen** – to suggest / recommend  
+**rechtswidrig** – unlawful  
+**Schuldgefühle** – guilty feelings  
+**Durchhaltevermögen** – perseverance  
+**äußerst** – extremely  
+**bedenklich** – problematic  
+**Gejammer** – whining  
+**umbringen** – to kill
 
 
 
