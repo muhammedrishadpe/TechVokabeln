@@ -811,6 +811,138 @@ The list is designed to help you not only understand technical terms, but also b
 1. **zocken** – to gamble / to play (informal)
 1. **gutheißen** – to approve / to endorse
 1. **Abkommen** – agreement / treaty
+
    - Ein internationales Abkommen
 
-**-----> Contributions are welcome! Feel free to open a PR 🧑‍💻 <-----**
+1. der Entschluss → decision, resolution (a clear, firm decision after some thought)
+
+   - einen Entschluss fassen – to make a decision
+   - zu einem Entschluss kommen – to come to a decision
+   - Er hat einen Entschluss gefasst. – He made a decision.
+   - Mein Entschluss steht fest. – My decision is final.
+
+1. gefasst → made, taken (used with "Entschluss fassen" = to make a decision); also calm, composed (if used with people)
+
+1. allgegenwärtig → everywhere, omnipresent
+
+   - Das Thema Umweltschutz ist heutzutage allgegenwärtig. – The topic of environmental protection is omnipresent nowadays.
+
+1. ein betrübtes Gesicht → a sad face
+
+   - Sie wirkte betrübt. – She seemed sad.
+   - Er war noch betrübter als gestern. – He was even sadder than yesterday.
+
+1. aufwerfen → to raise (a question, problem); to bring up (a topic)
+
+   - Der Artikel wirft viele Fragen auf. – The article raises many questions.
+   - Dieses Thema wirft Probleme auf. – This topic brings up problems.
+   - Die Studie hat neue Zweifel aufgeworfen. – The study has raised new doubts.
+
+1. schmeicheln → to flatter, to compliment, to butter someone up
+
+   - Er schmeichelt seinem Chef. – He flatters his boss.
+   - Du brauchst mir nicht zu schmeicheln. – You don’t need to flatter me.
+   - Sie schmeichelte ihm, um einen Gefallen zu bekommen. – She flattered him to get a favor.
+
+1. So etwas ist mir noch nie widerfahren. → Something like that has never happened to me.
+
+1. Ihm widerfuhr großes Unrecht. → Great injustice befell him.
+
+1. Ihr ist viel Gutes widerfahren. → A lot of good has happened to her.
+
+1. Wie bereits angeführt … → As already mentioned …
+
+1. Er leitete die Diskussion ein. → He initiated the discussion.
+
+1. Die Polizei leitete eine Untersuchung ein. → The police initiated an investigation.
+
+1. Ich möchte meinen Vortrag mit einem Zitat einleiten. → I would like to begin my presentation with a quote.
+
+1. Das neue Gesetz wurde eingeleitet. → The new law was initiated.
+
+1. kreieren → to create, to design, to invent (especially something new, artistic, original)
+
+- Die Designerin hat ein neues Kleid kreiert. – The designer created a new dress.
+- Er kreiert immer neue Ideen. – He constantly creates new ideas.
+- Wir haben eine innovative App kreiert. – We created an innovative app.
+- Wer hat dieses Logo kreiert? – Who created this logo?
+
+1. Er spricht in einer gehobenen Sprache. → He speaks in an elevated (formal) language.
+1. Sie gehört zur gehobenen Gesellschaft. → She belongs to the upper class.
+1. Wir suchen Mitarbeiter mit gehobenen Kenntnissen. → We are looking for employees with advanced knowledge.
+1. Das Restaurant hat ein gehobenes Niveau. → The restaurant is high-class.
+1. Lager → warehouse
+1. Lagerbestand → stock level
+1. Lagerverwaltung → warehouse management
+1. Kommissionierung → order picking
+1. Wareneingang → goods receipt
+1. Warenausgang → goods issue
+1. Umlagerung → stock transfer
+1. Bestandsaufnahme → inventory count
+1. Packliste → packing list
+1. Lieferschein → delivery note
+1. Frachtbrief → consignment note
+1. Versand → shipping
+1. Einlagerung → storage
+1. Auslagerung → retrieval
+1. Lagerfläche → warehouse space
+1. Hochregallager → high-bay warehouse
+1. Stapler → forklift
+1. Palette → pallet
+1. Förderband → conveyor belt
+1. Regal → shelf / rack
+1. Lagerverwaltungssystem (LVS / WMS) → warehouse management system (WMS)
+1. ERP-System → enterprise resource planning system
+1. Warenwirtschaftssystem → inventory management system
+1. Barcode-Scanner → barcode scanner
+1. RFID-Technologie → RFID technology
+1. Schnittstelle (API) → interface (API)
+1. Echtzeitdaten → real-time data
+1. Bestandspflege → inventory maintenance
+1. Datenbank → database
+1. Lagerort → storage location
+1. Versandabwicklung → shipping process
+1. Etikettierung → labeling
+1. Kommissionierliste → picking list
+1. Bestandsführung → inventory control
+1. Rückverfolgbarkeit → traceability
+1. Automatisierung → automation
+1. Systemintegration → system integration
+1. Staplerleitsystem → forklift guidance system
+1. Lageroptimierung → warehouse optimization
+1. Artikelstammdaten → item master data
+1. Software entwickeln → develop software
+1. Prozesse automatisieren → automate processes
+1. Schnittstellen programmieren → program interfaces
+1. Datenbanken verwalten → manage databases
+1. Fehlerbehebung durchführen → do troubleshooting
+1. Nutzer schulen → train users
+1. Reports erstellen → create reports
+1. Kommissionierstrategie → picking strategy
+1. FIFO (First In First Out) → FIFO
+1. LIFO (Last In First Out) → LIFO
+1. Chargenverwaltung → batch management
+1. Mindestbestand → minimum stock level
+1. Nachschub → replenishment
+1. Umlaufbestand → circulating inventory
+1. Inventurdifferenz → inventory discrepancy
+1. Seriennummer → serial number
+1. Versandetikett → shipping label
+1. Lieferrückstand → delivery backlog
+1. Lagerstrategie → storage strategy
+1. Warenbewegung → goods movement
+1. Laufwegoptimierung → route optimization
+1. Behältermanagement → container management
+1. konfigurieren → to configure
+1. anpassen → to customize
+1. integrieren → to integrate
+1. erfassen → to capture (data)
+1. überprüfen → to verify
+1. anwenden → to apply
+1. einrichten → to set up
+1. synchronisieren → to synchronize
+1. testen → to test
+1. sichern → to secure / backup
+
+
+   **-----> Contributions are welcome! Feel free to open a PR 🧑‍💻 <-----**
