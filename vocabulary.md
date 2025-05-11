@@ -862,10 +862,10 @@ The list is designed to help you not only understand technical terms, but also b
 
 1. kreieren → to create, to design, to invent (especially something new, artistic, original)
 
-- Die Designerin hat ein neues Kleid kreiert. – The designer created a new dress.
-- Er kreiert immer neue Ideen. – He constantly creates new ideas.
-- Wir haben eine innovative App kreiert. – We created an innovative app.
-- Wer hat dieses Logo kreiert? – Who created this logo?
+   - Die Designerin hat ein neues Kleid kreiert. – The designer created a new dress.
+   - Er kreiert immer neue Ideen. – He constantly creates new ideas.
+   - Wir haben eine innovative App kreiert. – We created an innovative app.
+   - Wer hat dieses Logo kreiert? – Who created this logo?
 
 1. Er spricht in einer gehobenen Sprache. → He speaks in an elevated (formal) language.
 1. Sie gehört zur gehobenen Gesellschaft. → She belongs to the upper class.
