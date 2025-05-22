@@ -346,7 +346,6 @@ The list is designed to help you not only understand technical terms, but also b
 1. **ausleihen** – To lend or borrow
 1. **Was sind die größten Herausforderungen, mit denen Auszubildende in diesem Bereich typischerweise konfrontiert werden, und wie unterstützt das Unternehmen sie dabei, diese zu bewältigen?** – What are the biggest challenges that trainees typically face in this area, and how does the company help them overcome them?
 1. **begleichen** – To settle (a payment or debt)
-1.
 1. **Genehmigt** - approved or authorized
 1. **Das Gerät** - the device
 1. **Biegsam** - flexible
@@ -422,7 +421,6 @@ The list is designed to help you not only understand technical terms, but also b
 1. **Überwachen** - to monitor
 1. **Hinkommen** - to end up
 1. **Vorgekommen** - happened
-1.
 1. **Entweder** - either
 1. **Agreed** - agreed
 1. **Einordnen** - to classify
@@ -498,7 +496,6 @@ The list is designed to help you not only understand technical terms, but also b
 1. **Anwendungsentwicklung** - application development
 1. **Technikbezogen** - tech-related
 1. **Freizeit** - free time
-1.
 1. **Dieselbe** - the same (feminine thing/person)
 1. **Trug** - wore
 1. **Kleidung** - clothing
@@ -527,7 +524,6 @@ The list is designed to help you not only understand technical terms, but also b
 1. **Schließlich** - eventually / finally
 1. **Hotelfachmann** - hotel specialist (job/training)
 1. **Entschied** - decided
-1.
 1. **folglich** – therefore
 1. **infolgedessen** – consequently
 1. **demnach** – thus
@@ -943,6 +939,142 @@ The list is designed to help you not only understand technical terms, but also b
 1. synchronisieren → to synchronize
 1. testen → to test
 1. sichern → to secure / backup
+
+1. - **anlegen** → **to invest / to create**
+1. - **anregen** → **to stimulate**
+1. - **annehmen** → **to accept / to assume**
+1. - **anwenden** → **to apply**
+1. - **aussagen** → **to testify**
+1. - **beeinflussen** → **to influence**
+1. - **beherbergen** → **to accommodate**
+1. - **berücksichtigen** → **to consider**
+1. - **bewältigen** → **to manage**
+1. - **deaktivieren** → **to deactivate**
+1. - **degradieren** → **to degrade**
+1. - **dekodieren** → **to decode**
+1. - **demolieren** → **to demolish / to destroy**
+1. - **demontieren** → **to dismantle**
+1. - **entbinden** → **to release / to give birth**
+1. - **entdecken** → **to discover**
+1. - **entkommen** → **to escape**
+1. - **entladen** → **to unload**
+1. - **entmutigen** → **to discourage**
+1. - **entschuldigen** → **to apologize**
+1. - **entsorgen** → **to dispose**
+1. - **entstehen** → **to arise / to develop**
+1. - **entwerten** → **to devalue / to invalidate**
+1. - **erheben** → **to raise**
+1. - **erlahmen** → **to become paralyzed**
+1. - **erwirtschaften** → **to generate / to earn**
+1. - **erstarren** → **to freeze (in fear)**
+1. - **gelingen** → **to succeed**
+1. - **intuitiv handeln** → **to act intuitively**
+1. - **missachten** → **to disregard**
+1. - **missbrauchen** → **to misuse / to abuse**
+1. - **missfallen** → **to displease**
+1. - **misshandeln** → **to mistreat**
+1. - **misslingen** → **to fail**
+1. - **missraten** → **to go wrong**
+1. - **misstrauen** → **to distrust**
+1. - **missverstehen** → **to misunderstand**
+1. - **nachdenken** → **to reflect / to ponder**
+1. - **nutzen** → **to use**
+1. - **realisieren** → **to realize**
+1. - **sichern** → **to secure / to back up**
+1. - **streuen** → **to scatter / to sprinkle**
+1. - **synchronisieren** → **to synchronize**
+1. - **testen** → **to test**
+1. - **überbrücken** → **to bridge**
+1. - **übergehen** → **to pass over**
+1. - **verdrängen** → **to suppress / to displace**
+1. - **verstehen** → **to understand**
+1. - **wachsen** → **to grow**
+1. - **zerbrechen** → **to break apart**
+1. - **zerdrücken** → **to crush**
+1. - **zerfallen** → **to disintegrate**
+1. - **zerfließen** → **to melt away**
+1. - **zerknittern** → **to crumple**
+1. - **zerlegen** → **to dismantle**
+1. - **zersplittern** → **to shatter**
+1. - **zerreißen** → **to tear apart**
+1. - **zerstören** → **to destroy**
+
+1. - **der Arztbesuch** → **doctor's visit**
+1. - **die Achtsamkeit** → **mindfulness**
+1. - **die Akupunktur** → **acupuncture**
+1. - **die alternative Medizin** → **alternative medicine**
+1. - **der Ballast** → **burden**
+1. - **die Begegnung** → **encounter**
+1. - **das Bewusstsein** → **awareness**
+1. - **der Chef** → **boss**
+1. - **die Datenanalyse** → **data analysis**
+1. - **die Digitalisierung** → **digitalization**
+1. - **die Entlastung** → **relief**
+1. - **die Forschung** → **research**
+1. - **die Heilkräuter** → **medicinal herbs**
+1. - **die Heilung** → **healing**
+1. - **das Herzblut** → **dedication**
+1. - **die Infrastruktur** → **infrastructure**
+1. - **die Investition** → **investment**
+1. - **die Kryptowährung** → **cryptocurrency**
+1. - **die Muckibude** → **gym**
+1. - **die Nachhaltigkeit** → **sustainability**
+1. - **das Nasenblut** → **nosebleed**
+1. - **die Qualifikation** → **qualification**
+1. - **die Regulierung** → **regulation**
+1. - **die Rendite** → **return / yield**
+1. - **die Schnapsidee** → **crazy idea**
+1. - **das Schicksal** → **fate**
+1. - **die Schritte** → **steps**
+1. - **das Schwellenland** → **emerging country**
+1. - **der Stuss** → **nonsense**
+1. - **die Strömung** → **current**
+1. - **die Studie** → **study**
+1. - **die Tiefe** → **depth**
+1. - **die Verdauungsbeschwerden** → **digestive issues**
+1. - **die Verdrängung** → **repression**
+1. - **der Vers** → **verse**
+1. - **das Veto** → **veto**
+1. - **der Wagemut** → **daring**
+1. - **das Wirtschaftswachstum** → **economic growth**
+1. - **die Weiterbildung** → **further education**
+1. - **die Wirksamkeit** → **effectiveness**
+1. - **der Zweifel** → **doubt**
+
+1. - **beinahe** → **almost**
+1. - **derartig** → **such**
+1. - **entzündungshemmend** → **anti-inflammatory**
+1. - **fuchsteufelswild** → **furious**
+1. - **ganzheitlich** → **holistic**
+1. - **gelungen** → **successful**
+1. - **ideale** → **ideal**
+1. - **natürlich** → **natural**
+1. - **personalisiert** → **personalized**
+1. - **präzise** → **precise**
+1. - **reell** → **real**
+1. - **stetig** → **constant**
+1. - **traditionell** → **traditional**
+1. - **weltweit** → **worldwide**
+1. - **zunehmend** → **increasing**
+ 
+1. - **gelegentlich** → **occasionally**
+1. - **hinsichtlich** → **regarding**
+1. - **insbesondere** → **especially**
+1. - **intuitiv** → **intuitively**
+
+1. - **an Bedeutung gewinnen** → **to gain importance**
+1. - **aufgeschlossen gegenüber** → **open-minded towards**
+1. - **Ich stehe dir jederzeit zur Verfügung.** → **I am always available for you.**
+1. - **Ich gehe spazieren, wenn auch das Wetter schlecht ist.** → **I go for a walk even if the weather is bad.**
+1. - **Wie auch immer du dich entscheidest, ich unterstütze dich.** → **However you decide, I support you.**
+1. - **Er ließ sich in München nieder.** → **He settled in Munich.**
+1. - **Die Firma stellt ihren Mitarbeitern Laptops zur Verfügung.** → **The company provides laptops to its employees.**
+1. - **Er ist ein echtes Schlitzohr.** → **He's a real trickster.**
+1. - **sich pudelwohl fühlen** → **to feel completely comfortable**
+1. - **Was deine Bewerbung betrifft, sie sieht sehr professionell aus.** → **Regarding your application, it looks very professional.**
+1. - **Hinsichtlich deiner Bewerbung gibt es keine Bedenken.** → **There are no concerns regarding your application.**
+1. - **Das Kind ist zu klein, als dass es das verstehen könnte.** → **The child is too young to understand that.**
+
 
 
    **-----> Contributions are welcome! Feel free to open a PR 🧑‍💻 <-----**
