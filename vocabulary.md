@@ -857,16 +857,8 @@ The list is designed to help you not only understand technical terms, but also b
 1.  Das neue Gesetz wurde eingeleitet. → The new law was initiated.
 
 1.  kreieren → to create, to design, to invent (especially something new, artistic, original)
-
-   - Die Designerin hat ein neues Kleid kreiert. – The designer created a new dress.
-   - Er kreiert immer neue Ideen. – He constantly creates new ideas.
-   - Wir haben eine innovative App kreiert. – We created an innovative app.
-   - Wer hat dieses Logo kreiert? – Who created this logo?
-
 1.  Er spricht in einer gehobenen Sprache. → He speaks in an elevated (formal) language.
 1.  Sie gehört zur gehobenen Gesellschaft. → She belongs to the upper class.
-1.  Wir suchen Mitarbeiter mit gehobenen Kenntnissen. → We are looking for employees with advanced knowledge.
-1.  Das Restaurant hat ein gehobenes Niveau. → The restaurant is high-class.
 1.  Lager → warehouse
 1.  Lagerbestand → stock level
 1.  Lagerverwaltung → warehouse management
