@@ -838,7 +838,7 @@ The list is designed to help you not only understand technical terms, but also b
 
     - Er schmeichelt seinem Chef. – He flatters his boss.
     - Du brauchst mir nicht zu schmeicheln. – You don’t need to flatter me.
-   - Sie schmeichelte ihm, um einen Gefallen zu bekommen. – She flattered him to get a favor.
+    - Sie schmeichelte ihm, um einen Gefallen zu bekommen. – She flattered him to get a favor.
 
 1.  So etwas ist mir noch nie widerfahren. → Something like that has never happened to me.
 
