@@ -1068,5 +1068,91 @@ The list is designed to help you not only understand technical terms, but also b
 1.  **Das Kind ist zu klein, als dass es das verstehen könnte.** → **The child is too young to understand that.**
 
 
+1. **umfahren** *(trennbar)* → **to knock over** – *Ich fahre den Baum um.*
+1. **umfahren** *(untrennbar)* → **to drive around / bypass** – *Ich umfahre den Stau.*
+1. **umgehen** *(untrennbar)* → **to avoid (figuratively)** – *Sie umgeht die schwierige Frage.*
+1. **umgehen mit** *(trennbar)* → **to handle / deal with** – *Sie geht gut mit Stress um.*
+1. **umstellen** *(trennbar)* → **to rearrange (physically)** – *Ich stelle die Möbel im Wohnzimmer um.*
+1. **umstellen** *(untrennbar)* → **to surround (militarily, police)** – *Die Polizei hat das Gebäude umstellt.*
+1. **umreißen** *(trennbar)* → **to knock down** – *Der Sturm hat den alten Baum umgerissen.*
+1. **umreißen** *(untrennbar)* → **to outline** – *Der Professor umriss in seiner Vorlesung die Grundzüge der Philosophie des 19. Jahrhunderts.*
+1. **umkehren** *(trennbar)* → **to turn back / reverse** – *Wir kehren um, weil der Weg gesperrt ist.*
+1. **umschreiben** *(trennbar)* → **to transfer ownership / legally rewrite** – *Der Lehrer hat sein Vermögen umgeschrieben.*
+1. **umschreiben** *(untrennbar)* → **to paraphrase** – *Er umschreibt den Satz mehrmals.*
+1. **umziehen** *(trennbar)* → **to move (residence)** – *Wir ziehen in ein neues Haus um.*
+1. **umrühren** *(trennbar)* → **to stir** – *Sie rührt den Teig gut um.*
+1. **umleiten** *(trennbar)* → **to divert (traffic)** – *Die Polizei leitet den Verkehr um.*
+1. **umbenennen** *(trennbar)* → **to rename** – *Die Stadt benennt die Straße um.*
+1. **umwerfen** *(trennbar)* → **to knock over / shock** – *Diese Nachricht wirft ihn um.*
+1. **umformen** *(trennbar)* → **to reshape / transform**
+1. **überfahren** *(trennbar)* → **to cross (by vehicle, rare)** – *Wir sind den Fluss übergefahren.*
+1. **überfahren** *(untrennbar)* → **to run over** – *Der Fahrer hat das Stoppschild überfahren.*
+1. **überlaufen** *(trennbar)* → **to overflow** – *Das Wasser läuft über.*
+1. **überlaufen** *(untrennbar)* → **to run a chill down someone’s spine** – *Es überläuft ihn eiskalt, wenn er das sieht.*
+1. **übersetzen** *(trennbar)* → **to cross (a river)** – *Die Gruppe setzt zum anderen Ufer über.*
+1. **übersetzen** *(untrennbar)* → **to translate** – *Sie übersetzt den Text aus dem Englischen ins Deutsche.*
+1. **übertreten** *(trennbar)* → **to convert (religion)** – *Sie treten zum Islam über.*
+1. **übertreten** *(untrennbar)* → **to violate (laws)** – *Der Politiker übertritt die geltenden Gesetze.*
+1. **überwerfen** *(trennbar)* → **to throw on (a coat)** – *Er wirft sich schnell einen Mantel über.*
+1. **überwerfen** *(untrennbar)* → **to fall out (rare)** – *Die beiden Freunde haben sich wegen einer Kleinigkeit überworfen.*
+1. **überziehen** *(trennbar)* → **to put on (clothes)** – *Zieh dir was über, es ist sehr kalt draußen.*
+1. **überziehen** *(untrennbar)* → **to overdraw (account)** – *Sie überzieht ihr Konto um 200 Euro.*
+1. **überblicken** *(untrennbar)* → **to survey / oversee** – *Der Lehrer überblickt die Situation und trifft eine Entscheidung.*
+1. **überhören** *(untrennbar)* → **to ignore (intentionally)** – *Der Chef überhörte die Beschwerden der Angestellten absichtlich.*
+1. **übersehen** *(untrennbar)* → **to overlook / miss** – *Wir haben den Fehler leider übersehen.*
+1. **übergehen** *(trennbar)* → **to move on / switch topics** – *Wir gehen nun zum nächsten Thema über.*
+1. **übergehen** *(untrennbar)* → **to skip / ignore topics** – *Der Lehrer überging mehrere Themen.*
+1. **übersteigen** *(trennbar)* → **to climb over (to the other side)** – *Die Räuber steigen vom Nachbarhaus über.*
+1. **übersteigen** *(untrennbar)* → **to exceed (costs, limits)** – *Die Kosten übersteigen das geplante Budget.*
+1. **übertreiben** *(untrennbar)* → **to exaggerate** – *Er übertreibt immer, wenn er von seinen Erfolgen spricht.*
+1. **übergeben** *(trennbar)* → **(colloquial) to hit / give a slap** – *Ich gebe dir einen/eins über.*
+1. **übergeben** *(untrennbar)* → **to hand over / delegate responsibility** – *Der Manager hat die Verantwortung an seinen Nachfolger übergeben.*
+1. **durchbeißen** *(untrennbar)* → **to bite through** – *Der aggressive Hund durchbeißt die Matratze.*
+1. **durchbeißen** *(trennbar)* → **to persevere through** – *Trotz aller Schwierigkeiten hat er sich durch das Studium durchgebissen.*
+1. **durchblättern** *(untrennbar)* → **to leaf through (search for something)** – *Er durchblätterte die Akten auf der Suche nach dem wichtigen Dokument.*
+1. **durchblättern** *(trennbar)* → **to flip through (a magazine)** – *Sie blättert das Magazin durch, um die neuesten Artikel zu lesen.*
+1. **durchbohren** *(untrennbar)* → **to pierce (pain)** – *Der Schmerz durchbohrte ihn wie ein scharfer Pfeil.*
+1. **durchbohren** *(trennbar)* → **to drill through** – *Er bohrt das Brett durch, um die Schrauben anzubringen.*
+1. **durchbrechen** *(untrennbar)* → **to break through (laws, traditions)** – *Das neue Gesetz durchbricht alte Traditionen.*
+1. **durchbrechen** *(trennbar)* → **to break through (physical)** – *Der Lkw bricht die Barrikade durch.*
+1. **durchatmen** *(trennbar)* → **to breathe through (a device)** – *Er atmet durch das Gerät, um den Test zu bestehen.*
+1. **durchdenken** *(untrennbar)* → **to think through** – *Sie durchdenkt den Plan, bevor sie ihn präsentiert.*
+1. **durchdenken** *(trennbar)* → **to think each step through** – *Er denkt die Schritte einzeln durch, um sicherzugehen, dass nichts vergessen wurde.*
+1. **durchdringen** *(untrennbar)* → **to penetrate / infiltrate** – *Die Truppe hat das Urwaldgebiet durchdrungen.*
+1. **durchdringen** *(trennbar)* → **to pass through (rain)** – *Der Regen drang durch meine Schuhe durch.*
+1. **durchfahren** *(untrennbar)* → **to be struck (by a sudden feeling)** – *Ein plötzlicher Gedanke durchfuhr ihn, als er die Nachricht hörte.*
+1. **durchfallen** *(trennbar)* → **to fail (an exam)** – *Trotz seiner Mühe fällt er durch die Prüfung.*
+1. **durchfließen** *(untrennbar)* → **to flow through (river)** – *Der Fluss durchfließt das gesamte Tal.*
+1. **durchfließen** *(trennbar)* → **to flow through (pipe)** – *Das Wasser fließt durch das Rohr.*
+1. **durchforschen** *(untrennbar)* → **to research thoroughly** – *Die Wissenschaftler durchforschen den Dschungel nach neuen Pflanzenarten.*
+1. **durchfragen** *(trennbar)* → **to ask around (for directions)** – *Sie fragt sich durch das große Einkaufszentrum, um den richtigen Laden zu finden.*
+1. **durchhalten** *(trennbar)* → **to hold out / endure** – *Sie hält den langen Marathon bis zum Ende durch.*
+1. **durchlaufen** *(untrennbar)* → **to go through several stages** – *Er durchläuft mehrere Stationen in seiner Ausbildung.*
+1. **durchlaufen** *(trennbar)* → **to run through (a place)** – *Sie läuft das gesamte Gelände durch, um den besten Weg zu finden.*
+1. **durchleben** *(untrennbar)* → **to live through / experience** – *Sie durchlebt gerade eine sehr schwierige Zeit.*
+1. **durchlesen** *(trennbar)* → **to read through** – *Er liest das Buch in einem Rutsch durch.*
+1. **durchleuchten** *(untrennbar)* → **to X-ray / examine thoroughly** – *Der Arzt durchleuchtet das Organ mit modernster Technologie.*
+1. **durchmachen** *(trennbar)* → **to stay up all night / go through** – *Sie macht die Nacht durch, um das Projekt rechtzeitig abzuschließen.*
+1. **durchnehmen** *(trennbar)* → **to go through (a list, material)** – *Er nimmt die gesamte Liste der Aufgaben durch, um nichts zu übersehen.*
+1. **durchqueren** *(untrennbar)* → **to cross (desert, area)** – *Der Reisende durchquert die Wüste zu Fuß.*
+1. **durchrechnen** *(trennbar)* → **to calculate through** – *Sie rechnen die gesamten Kosten noch einmal durch.*
+1. **durchreißen** *(trennbar)* → **to tear through** – *Er reißt das Papier durch, weil es unbrauchbar ist.*
+1. **durchringen** *(trennbar)* → **to fight through / force one’s way** – *Er ringt sich durch die Menge, um zum Ausgang zu gelangen.*
+1. **durchsickern** *(trennbar)* → **to leak / seep through** – *Die Informationen sickerten langsam durch und gelangten schließlich an die Öffentlichkeit.*
+1. **durchstreifen** *(untrennbar)* → **to roam / roam through (mountains)** – *Der Wanderer durchstreifte die Berge auf der Suche nach einem Pfad.*
+1. **durchstreifen** *(trennbar)* → **to roam through (area)** – *Sie streifen das ganze Gebiet auf ihrer Wanderung durch.*
+1. **durchziehen** *(untrennbar)* → **to pervade (smell)** – *Der Geruch von frischem Kaffee durchzog den Raum.*
+1. **durchziehen** *(trennbar)* → **to carry through (project)** – *Sie ziehen das Projekt bis zum Ende durch, ohne aufzugeben.*
+1. **die Erwerbsbevölkerung** → **the working population**
+1. **die Zuwanderung** → **immigration**
+1. **die Prognose** → **forecast**
+1. **angesichts** → **in view of / considering** – *Angesichts der neuen Datenschutzverordnung müssen Unternehmen ihre Systeme anpassen.*
+1. **anlässlich** → **on the occasion of** – *Anlässlich der Konferenz über Künstliche Intelligenz wurden neue Sicherheitsstandards vorgestellt.*
+1. **ungeachtet** → **despite / regardless of** – *Ungeachtet der Risiken wurde das Projekt weitergeführt.*
+1. **unweit** → **not far from / near** – *Unweit des neuen Fabrikgeländes soll ein Logistikzentrum entstehen.*
+1. **hinsichtlich** → **regarding / with respect to** – *Hinsichtlich der technischen Spezifikationen sind noch Anpassungen erforderlich.*
+1. **mithilfe** → **with the help of** – *Mithilfe der neuen Verschlüsselungstechnologie wurde die Sicherheit erhöht.*
+1. **mittels** → **by means of / using** – *Mittels der entwickelten Algorithmen konnte das Problem gelöst werden.*
+1. **oberhalb** → **above / beyond** – *Oberhalb der zulässigen Grenzwerte für Emissionen ist eine Genehmigung erforderlich.*
 
    **-----> Contributions are welcome! Feel free to open a PR 🧑‍💻 <-----**
