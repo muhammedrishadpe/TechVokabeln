@@ -1,27 +1,25 @@
-# 📘 IT Vocabulary – German-English
+# German–English–Arabic Vocabulary
 
-This vocabulary list is intended for anyone who is planning to pursue or is already involved in a tech-related degree or job in the IT field and wants to learn German vocabulary for that purpose.
+A small vocabulary list for learning German.
 
-You'll find a mix of IT-specific terms and general German vocabulary that are useful in everyday situations, as well as in working with technology, software development, and programming.
+It includes general words and some technical terms that may be useful in everyday life and work.
 
-The list is designed to help you not only understand technical terms, but also become more comfortable with the general language used in a professional IT context.
+I created this list while learning German during my Ausbildung, and I hope it can help others too.  
+I’m also adding Arabic translations, but there might be mistakes in the Arabic part — please be careful and double-check if needed xD
 
-📝 I personally created this list while learning German to prepare for my Ausbildung. It's a collection of words and phrases that I found especially helpful along the way — and I'm sharing it here just to help others who might be on a similar journey.
-
-📈 I’ll continue to add more vocabulary over time as I progress and note down new terms during my journey.
-
+I will keep adding new words as I learn them.
 ---
 
-1. **Einführung in Flutter** – Introduction to Flutter – (Grundlagen der App-Entwicklung für Anfänger)
-1. **Auseinandersetzung** – argument
-1. **Werdet ihr in der Lage sein** – you will be able to
-1. **Umfangreiche** – extensive
-1. **Ausführliches** – detailed
-1. **Vorgeht** – proceeds
-1. **Bausteine** – building blocks
-1. **Zusammengesetzt** – composed
-1. **Einstiegspunkt** – entry point
-1. **Ermöglicht** – enable
+1. **Einführung in Flutter** – Introduction to Flutter – (Grundlagen der App-Entwicklung für Anfänger) - Flutter مقدمة في 
+1. **Auseinandersetzung** – argument - جدل
+1. **Werdet ihr in der Lage sein** – you will be able to - ستستطيعون
+1. **Umfangreiche** – extensive - واسع النطاق
+1. **Ausführliches** – detailed - مُفَصَّل
+1. **Vorgeht** – proceeds - يَمْضِي / يَتَقَدَّم / يَسير في الإجراء 
+1. **Bausteine** – building blocks - عناصر بنائية / لبنات أساسية
+1. **Zusammengesetzt** – composed - مُرَكَّب 
+1. **Einstiegspunkt** – entry point - نقطة الدخول
+1. **Ermöglicht** – enable -  يُمَكِّن
 1. **Sichtbare** – visible
 1. **Verzeichnissen** – directories
 1. **Wiederverwendbaren** – reusable
