@@ -1152,5 +1152,37 @@ I will keep adding new words as I learn them.
 1. **mithilfe** → **with the help of** – *Mithilfe der neuen Verschlüsselungstechnologie wurde die Sicherheit erhöht.*
 1. **mittels** → **by means of / using** – *Mittels der entwickelten Algorithmen konnte das Problem gelöst werden.*
 1. **oberhalb** → **above / beyond** – *Oberhalb der zulässigen Grenzwerte für Emissionen ist eine Genehmigung erforderlich.*
+1. **beanspruchen** → **to claim / demand / require** – *Die Mitarbeiter beanspruchen ihren gesetzlichen Urlaub.*
+   Arabic: يطالب / يستحق / يتطلب
+1. **leibliche Eltern** → **biological parents** – *Das Kind lebt nicht bei seinen leiblichen Eltern.*
+   Arabic: الوالدان البيولوجيان
+1. **geringfügig** → **minor / marginal** – *Es gab nur eine geringfügige Änderung im Vertrag.*
+   Arabic: طفيف / بسيط
+1. **Arbeitsverhältnis** → **employment relationship** – *Das Arbeitsverhältnis beginnt am ersten Juni.*
+   Arabic: علاقة العمل
+1. **während der Elternzeit ruht das Arbeitsverhältnis** → **during parental leave, the employment relationship is suspended** – *Während der Elternzeit ruht das Arbeitsverhältnis vollständig.*
+   Arabic: أثناء إجازة الوالدية تتوقف علاقة العمل
+1. **Erwerbstätigkeit** → **employment / gainful activity** – *Eine Erwerbstätigkeit während der Elternzeit ist nur eingeschränkt erlaubt.*
+   Arabic: عمل مُدرّ للدخل
+1. **Veranlagungszeitraum** → **assessment period (tax)** – *Der Veranlagungszeitraum endet am 31. Dezember.*
+   Arabic: فترة التقدير الضريبي
+1. **weggefallenen** → **discontinued / removed / no longer applicable** – *Die weggefallenen Leistungen werden nicht ersetzt.*
+   Arabic: الملغى / الذي لم يعد موجودًا
+1. **gedeckelt** → **capped / limited** – *Der Zuschuss ist gesetzlich gedeckelt.*
+   Arabic: مُحدد بسقف / مُقيّد
+1. **Zuschuss** → **subsidy / allowance / financial support** – *Die Firma zahlt einen Zuschuss zum Elterngeld.*
+   Arabic: منحة / دعم مالي
+1. **rückwirkend gezahlt** → **paid retroactively** – *Die Leistung wird rückwirkend gezahlt.*
+   Arabic: يُدفع بأثر رجعي
+1. **Dabei sticht ihnen die folgende Meldung ins Auge** → **the following message catches their eye** – *Beim Öffnen der App sticht ihnen die folgende Meldung ins Auge.*
+   Arabic: تبرز أمامهم الرسالة التالية
+1. **verhandelt** → **negotiated** – *Der Tarifvertrag wurde neu verhandelt.*
+   Arabic: تم التفاوض عليه
+1. **ins Grübeln** → **to start pondering / to get into deep thought** – *Die Frage brachte ihn ins Grübeln.*
+   Arabic: يدخل في تفكير عميق
+1. **Verhandlungen auf sich nehmen** → **to take on negotiations** – *Er musste die Verhandlungen auf sich nehmen.*
+   Arabic: يتولى المفاوضات
+1. **jeglichen** → **any / whatsoever** – *Jeglichen Missbrauch der Daten gilt es zu vermeiden.*
+   Arabic: أيّ / مهما كان
 
    **-----> Contributions are welcome! Feel free to open a PR 🧑‍💻 <-----**
