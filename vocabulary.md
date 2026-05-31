@@ -4,7 +4,7 @@ A small vocabulary list for learning German.
 
 It includes general words and some technical terms that may be useful in everyday life and work.
 
-I created this list while learning German during my Ausbildung, and I hope it can help others too.  
+I created this list while learning German during my Ausbildung as a Fachinformatiker, and I hope it can help others too.
 I’m also adding Arabic translations, but there might be mistakes in the Arabic part — please be careful and double-check if needed xD
 
 I will keep adding new words as I learn them.
